@@ -1,7 +1,7 @@
 {
   "name": "loopback-connector-neo4j-cypher",
-  "version": "0.0.2",
-  "description": "Loopback connector for Neo4J with support for graph vertices using loopback relations",
+  "version": "0.0.3",
+  "description": "Loopback framework connector for Neo4J with which saves loopback 'Through' model instances as Neo4J graph relations",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
